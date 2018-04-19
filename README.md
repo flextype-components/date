@@ -2,7 +2,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square "Version")
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/flextype-components/date/blob/master/LICENSE)
 
-The Number Component contains methods that can be useful when working with numbers.
+Date component is a set of methods to help with the manipulation of dates.
 
 ### Installation
 

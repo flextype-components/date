@@ -3,7 +3,7 @@
   "keywords": ["date", "time"],
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/flextype-components/text",
+  "homepage": "https://github.com/flextype-components/date",
   "description": "Date component is a set of methods to help with the manipulation of dates.",
   "authors": [
     {
